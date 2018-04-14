@@ -1,0 +1,223 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-21 10:31:07
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-22 21:28:15
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+body{
+	background: #f9f9f9;
+}
+header{
+	width: 100%;
+	height: 0.53rem;
+	background: #212121;
+}
+.head_left{
+	width: 1.2rem;
+	height: 0.29rem;
+	margin-top: 0.12rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+.head_left img{
+	display: block;
+}
+/* .head_left i{
+	font-size:0.29rem;
+	float: left; 
+} */
+.head_right{
+	width: 0.26rem;
+	height: 0.16rem;
+	margin-top: 0.19rem;
+	margin-right: 0.19rem;
+	float: right;
+}
+.head_right span{
+	width: 0.26rem;
+	height: 0.02rem;
+	margin-bottom: 0.05rem;
+	background: #585858;
+	float: left;
+}
+.banner{
+	width: 100%;
+	height: 5.64rem;
+	background: pink;
+}
+.img_list li{
+	width: 100%;
+	height: 2.5rem;
+	border-bottom: 0.01rem solid #fff;
+}
+.img_list li a{
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	height: 2.5rem;
+	overflow: hidden;
+}
+.list1{
+	background: url("../img/promo_n6p_meeting.jpg") no-repeat center;
+	background-size: cover;
+}
+.list2{
+	background: url("../img/tmall720_400.jpg") no-repeat center;
+	background-size: cover;
+}
+.list3{
+	background: url("../img/jd720_400.jpg") no-repeat center;
+	background-size: cover;
+}
+.list4{
+	background: url("../img/promo_360os.jpg") no-repeat center;
+	background-size: cover;
+}
+h1{
+	width: 3rem;
+	height: 0.3rem;
+	margin: 0.2rem auto 0;
+	font-size: 0.2rem;
+	line-height: 0.3rem;
+	text-align: center;
+	color: #666666;
+	font-weight: normal;
+	font-family: 微软雅黑
+}
+h2{
+	width: 3rem;
+	height: 0.24rem;
+	margin: 0 auto ;
+	font-size: 0.16rem;
+	line-height: 0.24rem;
+	text-align: center;
+	color: #666666;
+	font-weight: normal;
+	font-family: 微软雅黑
+}
+.swiper-slide img{
+	width: 100%;
+	height:5.64rem;
+}
+.dibu{
+	width: 3.6rem;
+	height: 1.52rem;
+	margin: 0.2rem auto 0;
+}
+.dibu li{
+	width: 100%;
+	height: 0.37rem;
+	border-bottom: 0.01rem solid #cccccc;
+}
+.text{
+	width: 0.56rem;
+	height: 0.37rem;
+	font-size: 0.13rem;
+	font-weight: bold;
+	line-height: 0.37rem;
+	color: #666;
+	float: left;
+}
+.dibu_right{
+	width: 0.24rem;
+	height: 0.37rem;
+	font-size: 0.24rem;
+	font-weight: bold;
+	line-height: 0.37rem;
+	color: #666;
+	float: right;
+	margin-right: 0.09rem;
+}
+.dibu_center{
+	width: 3.6rem;
+	height: 1.27rem;
+	margin: 0 auto;
+	overflow: hidden;
+	border-bottom: 0.01rem solid #e2e2e2;
+}
+.tele{
+	width: 100%;
+	height: 0.27rem;
+	font-weight: bold;
+	font-size: 0.15rem;
+	line-height: 0.27rem;
+	color: #333;
+	text-align: center;
+	margin-top: 0.19rem;
+}
+.time1{
+	width: 100%;
+	height: 0.22rem;
+	font-size: 0.12rem;
+	line-height: 0.22rem;
+	text-align: center;
+	color: #333;
+}
+.time2{
+	width: 100%;
+	height: 0.22rem;
+	font-size: 0.12rem;
+	line-height: 0.22rem;
+	text-align: center;
+	color: #333;
+}
+.dibu_bottom{
+	width: 3.7rem;
+	height: 1.43rem;
+	background: pink;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.bottom_top{
+	width: 100%;
+	height: 0.18rem;
+	margin-top: 0.18rem;
+}
+.bottom_top span{
+	width: 0.48rem;
+	font-size: 0.12rem;
+	color: #aaa;
+	float: left;
+	margin-right: 0.1rem;
+	line-height: 0.18rem;
+}
+.bottom_center{
+	width: 100%;
+	height: 0.18rem;
+	font-size: 0.12rem;
+	color: #aaa;
+	line-height: 0.18rem;
+}
+.bottom_last{
+	width: 100%;
+	height: 0.18rem;
+	font-size: 0.12rem;
+	color: #aaa;
+	line-height: 0.18rem;
+}
+.pict{
+	width: 1.76rem;
+	height: 0.31rem;
+	margin-top: 0.16rem;
+	margin-left: 0.15rem;
+	margin-bottom: 0.3rem;
+	background: red;
+}
+.pict1{
+	width: 0.37rem;
+	height: 0.31rem;
+	background: pink;
+	float: left;
+	margin-right: 0.14rem;
+}
+.pict2{
+	width: 0.33rem;
+	height: 0.31rem;
+	background: url('../img/3601_06.png') no-repeat;
+	float: left;
+}
